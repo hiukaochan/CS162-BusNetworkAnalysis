@@ -1,0 +1,3 @@
+All pairs: 19.48581283725798
+Shortest time with stopId 7498 for 0.0001462909858673811
+Longest time with stopId 56 for 0.01792816602392122

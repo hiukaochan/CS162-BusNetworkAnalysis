@@ -1,0 +1,2 @@
+{"name":"fastest_route","description":"Find fastest route from start stop to end stop","parameters":{"type":"object","properties":{"start_stop":{"type":"int","description":"Initial bus stop"},"end_stop":{"type":"int","description":"Destination bus stop"},"required":["start_stop","end_stop"]}}}
+{"name":"k_importance","description":"Find top k most important stop from data","parameters":{"type":"object","properties":{"k":{"type":"int","description":"The number of stops need to be ranked"},"required":["k"]}}}
